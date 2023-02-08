@@ -1,0 +1,2 @@
+npm install -g bash-obfuscate
+bash-obfuscate ELEMENT1 -o ELEMENT2
